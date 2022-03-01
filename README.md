@@ -1,2 +1,3 @@
-# terraform-module-aws-active-directory-security-group-for-linux
-Terraform module for creating the Security Group for a Linux EC2 to communicate (join) an Active Directory (or SimpleAD).
+# security-group-ad-from-linux
+
+Terraform Security Groups to join and communicate with an Active Directory Domain from Linux EC2 Instance
